@@ -3,6 +3,7 @@
 ## Table of Contents
 
  - Binary Images: Properties and Methods
+ 
         - Geometric Properties (HW2)
         - Discrete Binary Images (HW2)
         - [Multiple Objects and Connectivity](bin_img/mult_obj.md)
@@ -10,17 +11,20 @@
 ## TODO
 
 - Binary Images: Properties and Methods
+
        - Geometric Properties (HW2)
        - Discrete Binary Images (HW2)
        - Sequential and Iterative Processing
 
 - Image Formation
+
        - Pinhole and Perspective Projection
        - Vanishing Point
        - Image Formation Using Lenses
        - Lens Related Issues
 
 - Image Sensing
+
        - Types of Image Sensors
        - Resolution, Noise, Dynamic Range
        - Sensing Color
@@ -28,6 +32,7 @@
        - High Dynamic Range Imaging
 
 - Image Processing
+
       - Pixel Processing
       - Convolution (HW3)
       - Linear Filtering
@@ -40,6 +45,7 @@
       - Sampling Theory
 
 - Edge and Corner Detection
+
       - Theory of Edge Detection
       - Edge Detection Using Gradients
       - Edge Detection Using Laplacian
@@ -47,6 +53,7 @@
       - Harris Corner Detector
 
 - 2D Image Recognition (SIFT)
+
       - Local Appearance and Interest Points
       - Blob Detection
       - Scale-Space
@@ -54,18 +61,21 @@
       - Matching SIFT Descriptors
 
 - Image Segmentation
+
       - Segmentation and Grouping in Humans
       - k-Means Segmentation
       - Mean Shift Segmentation
       - Graph Cut Segmentation
 
 - Face Detection
+
       - Features for Face Detection
       - Integral Images
       - Nearest Neighbor Classifiers
       - Support Vector Machine
 
 - Image Alignment and Stitching
+
       - Image Transformations (HW4)
       - Computing Transformations (HW4)
       - Warping Images (HW4)
@@ -74,12 +84,14 @@
 - High Dynamic Range Photography and Tone Mapping
 
 - 3D Photography: Photometric Stereo
+
       - Image Intensity
       - Radiometric Concepts
       - Image Formation
       - Reflectance Models
 
 - Depth from Focus/Defocus
+
       - Geometry of Defocus
       - Depth from Focus (HW5)
       - Depth from Defocus
