@@ -4,9 +4,9 @@
 
  - Binary Images: Properties and Methods
 
-        - Geometric Properties (HW2)
-        - Discrete Binary Images (HW2)
-        - [Multiple Objects and Connectivity](bin_img/mult_obj.md)
+  - Geometric Properties (HW2)
+  - Discrete Binary Images (HW2)
+  - [Multiple Objects and Connectivity](bin_img/mult_obj.md)
 
 ## TODO
 
