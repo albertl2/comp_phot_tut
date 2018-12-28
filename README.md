@@ -1,5 +1,11 @@
 # Computational Photography Tutorials
 
+## What's going on here?
+
+You've found code that is currently being drafted. At this time, it is in its first draft where the code is the priority and documentation is thin on the ground.
+
+If you still want to work with what is here, you'll also need to spend some time searching for documentation and relevant papers to fill in the gaps.
+
 ## Table of Contents
 
 ## TODO
